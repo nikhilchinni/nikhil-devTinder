@@ -116,6 +116,8 @@ What are options in a Model.findOneAndUpdate method, explore more about it
 
 API - Update the user with email ID
 
+EPISODE-8 -------------------------------------------------------------------------------------------------->
+
 Explore schematype options from the documention
 
 add required, unique, lowercase, min, minLength, trim
@@ -137,6 +139,9 @@ Install validator
 Explore validator library funcation and Use vlidator funcs for password, email, photoURL
 
 NEVER TRUST req.body
+
+
+
 
 Validate data in Signup API
 
