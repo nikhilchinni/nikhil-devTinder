@@ -1,3 +1,5 @@
+EPISDODE -3 --------------------------------------------------------------------------->
+
 Create a repository
 
 Initialize the repository
@@ -19,6 +21,8 @@ What are dependencies
 What is the use of "-g" while npm install
 
 Difference between caret and tilde ( ^ vs ~ )
+
+EPISODE - 4------------------------------------------------------------------------------->
 
 initialize git
 
@@ -44,6 +48,8 @@ Reading the query params in the routes
 
 Reading the dynamic routes
 
+EPISODE -5 --------------------------------------------------------------------------------->
+
 Multiple Route Handlers - Play with the code
 
 next()
@@ -64,6 +70,8 @@ Write a dummy auth middleware for all user routes, except /user/login
 
 Error Handling using app.use("/", (err, req, res, next) = {});
 
+EPISODE-6----------------------------------------------------------------------------------------->
+
 Create a free cluster on MongoDB official website (Mongo Atlas)
 
 Install mongoose library
@@ -79,6 +87,8 @@ Create POST /sigup API to add data to database
 Push some documents using API calls from postman
 
 Error Handling using try , catch
+
+EPISODE-7--------------------------------------------------------------------------------------------->
 
 JS object vs JSON (difference)
 
