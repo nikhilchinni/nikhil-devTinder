@@ -141,7 +141,7 @@ Explore validator library funcation and Use vlidator funcs for password, email, 
 NEVER TRUST req.body
 
 
-
+EPISODE-9 -------------------------------------------------------------------------------------------------->
 
 Validate data in Signup API
 
@@ -152,6 +152,8 @@ Create PasswordHash using bcrypt.hash & save the user is excrupted password
 Create login API
 
 Compare passwords and throw errors if email or password is invalid
+
+
 
 install cookie-parser
 
