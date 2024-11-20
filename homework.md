@@ -177,6 +177,8 @@ Create userSchema method to getJWT()
 
 Create UserSchema method to comparepassword(passwordInputByUser)
 
+EPISODE-11 -------------------------------------------------------------------------------------------------->
+
 Explore tinder APIs
 
 Create a list all API you can think of in Dev Tinder
