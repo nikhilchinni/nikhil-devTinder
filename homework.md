@@ -201,6 +201,8 @@ Create PATCH /profile/password API => forgot password API
 
 Make you validate all data in every POST, PATCH apis
 
+EPISODE-12 -------------------------------------------------------------------------------------------------->
+
 Create Connnection Request Schema
 
 Send Connection Request API
@@ -222,6 +224,8 @@ What is the advantages and disadvantage of creating?
 Read this arcticle about compond indexes - https://www.mongodb.com/docs/manual/core/indexes/index-types/index-compound/
 
 ALWAYS THINK ABOUT CORNER CASES
+
+
 
 Write code with proper validations for POST /request/review/:status/:requestId
 
